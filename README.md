@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+a+Growdever;I'm+a+developer+apprentice...;I'm+a+CRAZY+chess+fan;And+I'm+a+Skyrim+player)](https://git.io/typing-svg)
-<h3> Here's some fun facts about me: </h3>
+<h3> Here's some facts about me: </h3>
 
 - **My name is Fabio Luz!!!**
 - **I am a ***HUGE The Lord of the Rings fan***⚡🧙🏻‍♂️**
@@ -27,7 +27,7 @@
 ### Some of my public repositories (not forks):
 
 - **[My Profile Repo - FabioLuz87/FabioLuz87](https://github.com/FabioLuz87/FabioLuz87)**
-- **[Nikel Grodev - Financial Control Repo - AvidCoder101/BMICalculator](https://github.com/FabioLuz87/nikel)**
+- **[Nikel Growdev - Financial Control](https://github.com/FabioLuz87/nikel)**
 
 ### Organizations that I have contributed to:
 
