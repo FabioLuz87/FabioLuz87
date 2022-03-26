@@ -2,9 +2,9 @@
 
 
 
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
+<img src="https://profile-counter.glitch.me/FabioLuz87/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/FabioLuz87.svg?style=social&label=Followers)](https://github.com/FabioLuz87?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+a+Growdever;I'm+a+developer+apprentice...;I'm+a+CRAZY+chess+fan;And+I'm+a+Skyrim+player)](https://git.io/typing-svg)
 <h3> Here's some facts about me: </h3>
@@ -18,11 +18,6 @@
 
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioLuz87&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FabioLuz87&theme=radical)](https://git.io/streak-stats) 
-
-### Yo! This is not mine, but i like it <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
-
 
 ### Some of my public repositories (not forks):
 
