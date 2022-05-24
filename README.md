@@ -19,11 +19,11 @@
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioLuz87&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FabioLuz87&theme=radical)](https://git.io/streak-stats) 
 
-### Some of my public repositories (not forks):
+### Some of my public repositories:
 
 - **[My Profile Repo - FabioLuz87/FabioLuz87](https://github.com/FabioLuz87/FabioLuz87)**
 - **[Nikel Growdev - Financial Control](https://github.com/FabioLuz87/nikel)**
-- **[ScrapBook Growdev ]([https://github.com/FabioLuz87/](https://github.com/FabioLuz87/scrapbook-system))**
+- **[ScrapBook Growdev ](https://github.com/FabioLuz87/scrapbook-system)**
 
 ### Organizations that I have contributed to:
 
@@ -42,6 +42,6 @@
 
 ------
 
-Credit : [AvidCoder101](https://github.com/AvidCoder101)
 
-Last Edited On: 23/03/2022
+
+Last Edited On: 23/05/2022
