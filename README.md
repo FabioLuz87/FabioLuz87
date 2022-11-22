@@ -12,7 +12,7 @@
 - **My name is Fabio Luz!!!**
 - **I am a ***HUGE The Lord of the Rings fan***⚡🧙🏻‍♂️**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
--  **I'm a developer at [EasyPro Tecnologia](https://www.easypro.com.br/)**
+-  **I'm a developer at [CWI Software](https://cwi.com.br)**
 
 ### Here's my github README stats:
 
@@ -44,4 +44,4 @@
 
 
 
-Last Edited On: 23/05/2022
+Last Edited On: 22/11/2022
