@@ -6,12 +6,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/FabioLuz87.svg?style=social&label=Followers)](https://github.com/FabioLuz87?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Sou+o+Fábio;Sou+desenvolvedor+java;E...Aprendiz+Unity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Sou+o+Fabio;Sou+desenvolvedor+java;Graduando+em_Sistemas_de_Informação)](https://git.io/typing-svg)
 <h3> Here's some facts about me: </h3>
 
 - **My name is Fabio Luz!!!**
 - **I am a ***HUGE The Lord of the Rings fan***⚡🧙🏻‍♂️**
--  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I'm a developer at [CWI Software](https://cwi.com.br)**
 
 ### Here's my github README stats:
