@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/FabioLuz87.svg?style=social&label=Followers)](https://github.com/FabioLuz87?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Sou+o+Fabio;Sou+desenvolvedor+java;Graduando+em_Sistemas+de+Informação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Sou+o+Fabio;Sou+desenvolvedor+java;Sistemista+de+Informação)](https://git.io/typing-svg)
 <h3> Here's some facts about me: </h3>
 
 - **My name is Fabio Luz!!!**
